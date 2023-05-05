@@ -1,5 +1,0 @@
-# Pandas-Data-Science-Tasks
-tutorial from Youtube video: Solving real world data science tasks with Python Pandas!
-https://www.youtube.com/watch?v=eMOA1pPVUc4&t=2983s
-
-# In that veideo work on Jupyter Notebook but i do this project on VSCODE so this file haven't simulation run on Jupyter Notebook yet!!!!
