@@ -3,14 +3,19 @@ Set the real world data science tasks using the Python Pandas library.
 <br><br>
 For ans the question...<br>
 What was the best month for sales? How much was earned that month?
+>> December
 <br>
  What city sold the most product?
+>> Austin
  <br>
  What time should we display advertisements to maximize likelihood of customer's buying product?
+>> before 11am or 7pm
 <br>
 What products are most often sold together?
+>> iPhone and Lightning Charging Cable
 <br>
 What product sold the most? Why do you think it sold the most?
+>> The AAA Batteries (4-packed) sold the most likely due to its value for money. This perception of getting a good deal often drives higher sales, as customers are more likely to purchase items they believe offer a better return on their investment. The affordability and practicality of batteries, combined with the convenience of a multi-pack, likely contributed to its popularity.
 
 
 ## Tools and techniques for this project
